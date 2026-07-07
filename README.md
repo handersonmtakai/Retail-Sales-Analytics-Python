@@ -69,22 +69,22 @@ The project demonstrates the complete data analysis workflow—from loading and 
 ## Dashboard Preview
 
 ### Gender VS Product Category
-![Gender VS Product Category](images/Gender_VS_Product_Category.png)
+![Gender VS Product Category](Images/Gender_VS_Product_Category.png)
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend](Images/monthly_sales_trend.png)
 
 ### Revenue By Product
-![Revenue By Product](images/Revenue_By_Product.png)
+![Revenue By Product](Images/Revenue_By_Product.png)
 
 ### Revenue Contribution by Gender
-![Revenue Contribution by Gender](images/revenue_contribution_by_gender.png)
+![Revenue Contribution by Gender](Images/revenue_contribution_by_gender.png)
 
 ### Spending By Age Group
-![Spending By Age Group](images/spending_by_age_group.png)
+![Spending By Age Group](Images/spending_by_age_group.png)
 
 ### Top 10 Customers By Spending
-![Top 10 Customers By Spending](images/top_10_customers_by_spending.png)
+![Top 10 Customers By Spending](Images/top_10_customers_by_spending.png)
 
 ## Key Insights
 
